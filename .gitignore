@@ -1,0 +1,4 @@
+vending-machine
+vendor
+.env
+*.exe
